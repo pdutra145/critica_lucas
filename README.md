@@ -1,4 +1,4 @@
-# Expectativas Racionais e Ing
+# Expectativas Racionais e Ingênuas
 
 - Implementação do modelo de expectativas racionais novo-clássico
 
